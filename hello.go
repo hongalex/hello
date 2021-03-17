@@ -10,6 +10,6 @@ func Proverb() string {
 	return quote.Concurrency()
 }
 
-func Glass() string {
+func Mass() string {
 	return quote.GlassV3()
 }
