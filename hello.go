@@ -10,6 +10,6 @@ func Proverb() string {
 	return quote.Concurrency()
 }
 
-func Mass() string {
-	return quote.GlassV3()
+func Grass() string {
+	return "I can eat grass and it doesn't hurt me." 
 }
